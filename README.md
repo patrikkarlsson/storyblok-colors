@@ -1,6 +1,6 @@
 # Storyblok Field-Type
 
-> A storyblok plugin for Sass Flexbox Grid
+> A storyblok plugin for custom color picker
 
 ## Project setup
 ```
